@@ -10,5 +10,5 @@ Nesse projeto Java podemos calcular o salario de um empregado usando como base s
 
 ## Aprendizados
 
-Neste projeto pude aprender mais sobre Enumerações e Composição de um projeto Java 
+Neste projeto pude aprender mais sobre Enumerações e Composição em um projeto Java 
 
